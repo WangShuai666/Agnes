@@ -1,0 +1,3 @@
+# Agnes
+让Claude code中接入的deepseek具有生成照片视频的能力
+本质是调用了 Agnes 的两个生成视频和图片的大模型，这里写了和skill去HTTP调用他
